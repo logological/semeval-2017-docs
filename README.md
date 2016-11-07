@@ -1,7 +1,7 @@
 # SemEval-2017 Shared Task on Puns
 
-This project contains publicity documents for the SemEval-2017 shared
-task on detecting and interpreting English puns.
+This project contains publicity documents for the
+[SemEval-2017 shared task on detecting and interpreting English puns](http://alt.qcri.org/semeval2017/task7/).
 
 To compile the docments, you need (variously)
 [XeTeX](http://xetex.sourceforge.net/) (and various third-party CTAN
